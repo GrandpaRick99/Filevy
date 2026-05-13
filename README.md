@@ -38,16 +38,16 @@ Most converters upload your files to a server somewhere.
 
 | # | Conversion | Status |
 |---|-----------|--------|
-| 01 | PNG / JPG / WEBP ↔ each other | ✅ PNG / JPG ↔ each other — [Issue #1](https://github.com/YOUR_USERNAME/Filevy/issues/1) |
-| 02 | PDF → DOCX | ❌ Not finished yet — [Issue #2](https://github.com/YOUR_USERNAME/Filevy/issues/2) |
-| 03 | DOCX / TXT → PDF | ❌ Not finished yet — [Issue #3](https://github.com/YOUR_USERNAME/Filevy/issues/3) |
-| 04 | MP4 → MP3 | ❌ Not finished yet — [Issue #4](https://github.com/YOUR_USERNAME/Filevy/issues/4) |
-| 05 | CSV → XLSX (Excel) | ❌ Not finished yet — [Issue #5](https://github.com/YOUR_USERNAME/Filevy/issues/5) |
-| 06 | SVG → PNG / PDF | ❌ Not finished yet — [Issue #6](https://github.com/YOUR_USERNAME/Filevy/issues/6) |
-| 07 | MP3 / WAV ↔ each other | ❌ Not finished yet — [Issue #7](https://github.com/YOUR_USERNAME/Filevy/issues/7) |
-| 08 | HEIC → JPG / PNG | ❌ Not finished yet — [Issue #8](https://github.com/YOUR_USERNAME/Filevy/issues/8) |
-| 09 | Markdown → HTML / PDF | ❌ Not finished yet — [Issue #9](https://github.com/YOUR_USERNAME/Filevy/issues/9) |
-| 10 | ZIP / RAR ↔ ZIP / 7Z | ❌ Not finished yet — [Issue #10](https://github.com/YOUR_USERNAME/Filevy/issues/10) |
+| 01 | PNG / JPG / WEBP ↔ each other | ✅ PNG / JPG ↔ each other — [Issue #1](https://github.com/L187s/Filevy/issues/1) |
+| 02 | PDF → DOCX | ❌ Not finished yet — [Issue #2](https://github.com/L187s/Filevy/issues/2) |
+| 03 | DOCX / TXT → PDF | ❌ Not finished yet — [Issue #3](https://github.com/L187s/Filevy/issues/3) |
+| 04 | MP4 → MP3 | ❌ Not finished yet — [Issue #4](https://github.com/L187s/Filevy/issues/4) |
+| 05 | CSV → XLSX (Excel) | ❌ Not finished yet — [Issue #5](https://github.com/L187s/Filevy/issues/5) |
+| 06 | SVG → PNG / PDF | ❌ Not finished yet — [Issue #6](https://github.com/L187s/Filevy/issues/6) |
+| 07 | MP3 / WAV ↔ each other | ❌ Not finished yet — [Issue #7](https://github.com/L187s/Filevy/issues/7) |
+| 08 | HEIC → JPG / PNG | ❌ Not finished yet — [Issue #8](https://github.com/L187s/Filevy/issues/8) |
+| 09 | Markdown → HTML / PDF | ❌ Not finished yet — [Issue #9](https://github.com/L187s/Filevy/issues/9) |
+| 10 | ZIP / RAR ↔ ZIP / 7Z | ❌ Not finished yet — [Issue #10](https://github.com/L187s/Filevy/issues/10) |
 
 ---
 
