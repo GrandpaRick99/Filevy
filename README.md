@@ -81,7 +81,15 @@ cd Filevy
 dotnet build
 dotnet run
 ```
+---
+## 📦 Used NuGet Packages
 
+| Feature / Conversion                     | Package | License|
+|-----------------------------|--------------|----|
+| PNG/JPG/WEBP <-> each other | ImageSharp|MIT|
+| Docx -> PDF                 | QuestPDF|MIT|
+|PDF -> DOCX| LibreOffice| MPL-2.0|
+|MP4 -> MP3| Xabe.FFmpeg| CC|
 ---
 
 ## Contributing
